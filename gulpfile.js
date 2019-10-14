@@ -5,7 +5,7 @@ const sass = require('gulp-sass');
 const concat = require('gulp-concat');
 
 /*
-  -- TOP LEVEL FUNCTIONS --
+  -- TOP LEVEL FUNCTIONS 
   gulp.task - Define tasks
   gulp.src - Point to files to use
   gulp.dest - Points to folder to output
